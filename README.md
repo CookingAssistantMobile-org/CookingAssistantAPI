@@ -1,7 +1,7 @@
 # Cooking Assistant API
 
 ## Introduction
-Cooking Assistant API is a backend service developed using ASP.NET Web API in C#. It is designed to support the Cooking Assistant mobile application, enabling users to manage recipes effectively. The API facilitates user registration and authentication through JSON Web Tokens (JWT).
+Cooking Assistant API is a backend service developed using ASP.NET Web API in C#. It is designed to support the ![Cooking Assistant mobile application](https://github.com/CookingAssistantMobile-org/CookingAssistant/tree/development), enabling users to manage recipes effectively. The API facilitates user registration and authentication through JSON Web Tokens (JWT).
 
 Users can add, modify, delete, and manage recipes. Additionally, they can rate recipes, add them to their favorites, and generate PDF files for specific recipes. The API also supports profile and recipe images, which are stored in the database as byte arrays. Recipes can be paginated, sorted, and filtered based on various criteria, providing a seamless browsing experience.
 
