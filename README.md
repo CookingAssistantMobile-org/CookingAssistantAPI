@@ -56,6 +56,13 @@ Users can add, modify, delete, and manage recipes. Additionally, they can rate r
 
 ---
 
+## How to use
+1. Clone this repository
+2. Open this project in visual studio
+3. If you want to use this API with [CookingAssistant Mobile App](https://github.com/filip-wojc/CookingAssistant), edit launchSettings.json file by adding your local Ipv4 address in applicationUrl in http section
+4. Run project using http
+---
+
 ## Future Development Plans
 1. **Performance Optimization**: Further enhance database query performance and caching.
 2. **Multi-language Support**: Provide localization options for multiple languages.
